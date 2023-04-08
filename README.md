@@ -3,3 +3,4 @@
 OA , LIVRO DE RECEITAS 
 
  - STRONNOFF DE FRANGO 
+- Strognoff de Carne 
